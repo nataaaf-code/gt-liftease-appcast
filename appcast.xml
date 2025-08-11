@@ -5,7 +5,8 @@
         <item>
             <title>Version 1.0.2</title>
             <sparkle:version>1.0.1+2</sparkle:version>
-            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nlesEov3jxu8o77IXhTfvn4WJJxHJZhQ" sparkle:os="android" />
+            <enclosure url="https://drive.google.com/uc?export=download&id=1nlesEov3jxu8o77IXhTfvn4WJJxHJZhQ" sparkle:os="android" />
+            https://drive.google.com/file/d/1nlesEov3jxu8o77IXhTfvn4WJJxHJZhQ/view?usp=drive_link
         </item>
     </channel>
 </rss>

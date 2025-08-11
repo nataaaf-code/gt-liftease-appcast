@@ -4,7 +4,7 @@
         <title>GT LiftEase Updates</title>
         <item>
             <title>Version 1.0.2</title>
-            <sparkle:version>1.0.2+5</sparkle:version>
+            <sparkle:version>1.0.0+1</sparkle:version>
             <enclosure url="https://drive.google.com/uc?export=download&amp;id=19F3J2VTzsYjCcZDrYH5IqDHs9gAu4jr6" sparkle:os="android" />
         </item>
     </channel>
